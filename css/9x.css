@@ -1,0 +1,169 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+/*---------------------------------header css start---------------------------*/
+.header{
+	height: 150px;
+	width: 100%;
+	background: #343434;
+}
+.header img{
+	margin-top: 30px;
+	margin-left: 93px;
+}
+/*---------------------------------header css end------------------------------*/
+
+/*---------------------------------menu css start---------------------------*/
+.menu{
+	background: #5b89b8;
+	width: 100%;
+	height: 50px;
+}
+.menu a{
+	text-decoration: none;
+	font-family: inherit !important;
+	line-height: 45px;
+    box-sizing: inherit;
+    color: white;
+    font-weight: bold;
+    margin-left: 45px;
+}
+/*---------------------------------menu css end---------------------------*/
+
+/*----------------------------movies by alphabates css start----------------------------*/
+.alpha h2{
+	color: #555;
+    font-weight: normal;
+    font-family: 'open_sansregular', sans-serif;
+    font-size: 25px;
+}
+.allalphabates{
+
+}
+.a{
+	/*border: 1px solid black;*/
+	height: 25px;
+    width: 30px;
+    margin-left: 2px;
+    padding-left: 4px;
+    float: left;
+    color: white;
+    background: #5b89b8;
+    text-decoration: none;
+}
+.b{
+	/*border: 1px solid black;*/
+    height: 25px;
+    width: 15px;
+    margin-left: 4px;
+    padding-left: 5px;
+    padding-right: 5px;
+    float: left;
+    color: white;
+    background: #5b89b8;
+    text-decoration: none;
+}
+/*----------------------------movies by alphabates css end----------------------------*/
+
+/*----------------------------Latest movies css start----------------------------*/
+.LM{
+	/*border: 2px solid black;*/
+	background: #DC3030;
+    margin: 5px 100px 0px 100px;
+    padding: 6px 0px 6px 8px;
+    color: white;
+}
+/*----------------------------Latest movies css end----------------------------*/
+
+/*--------------------------------Banner css start---------------------------------*/
+.allbanners{
+	/*border: 3px solid red;*/
+	height: 1550px;
+}
+.banner1{
+	border: 1px solid #8080801c;
+	width: 270px;
+	height: 490px;
+	margin-left: 100px;
+	float: left;
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+.banner1 img{
+	height: 370px;
+	width: 270px;
+}
+.banner1 a{
+	font-size: 23px;
+    font-family: Open Sans;
+    color: #0f3dbc !Important;
+    text-decoration: none;
+}
+.banner2{
+	border: 1px solid #8080801c;
+	width: 270px;
+	height: 490px;
+	margin-left: 18px;
+	float: left;
+	margin-bottom: 20px;
+	margin-top: 5px;
+}
+.banner2 img{
+	height: 370px;
+	width: 270px;
+}
+.banner2 a{
+	font-size: 23px;
+    font-family: Open Sans;
+    color: #0f3dbc !Important;
+    text-decoration: none;
+}
+/*--------------------------------Banner css end---------------------------------*/
+
+/*--------------------------------Footer css start---------------------------------*/
+.footer1{
+	width: 100%;
+	height: 30px;
+	background: #343434;
+}
+.footer2{
+	width: 100%;
+	height: 120px;
+	background: black;
+}
+.footer2 p{
+	    margin-top: -16px;
+        font-size: 13px;
+        color: wheat;
+}
+.footerflix{
+    padding-top: 13px;
+    padding-right: 280px;
+}
+.footerflix a{
+	    text-decoration: none;
+        color: #2D89A7;
+}
+.footerpolicy{
+/*	border: 3px solid yellow;*/
+	height: 30px;
+    margin-left: 346px;
+    margin-right: 346px;
+    margin-top: 5px;
+    padding-left: 190px;
+    padding-top: 5px;
+}
+.footerpolicy a{
+	float: left;
+	text-decoration: none;
+    color: #2D89A7;
+    margin-left: 20px;
+}
+.footer3{
+	width: 100%;
+	height: 20px;
+	background: white;
+}
+/*--------------------------------Footer css end-----------------------------------*/
